@@ -10,6 +10,10 @@ This analysis focuses on:
 
 A sample size of **414,259 males** and **135,808 females** was used for this study from a dataset of **550,000 entries**
 
+## Requirements
+
+### Tools and Libraries
+
 Data Overview
 Source: Kaggle 
 Dataset Size
@@ -22,7 +26,16 @@ Age (0-55+)
 Marital Status (0/1)
 City Category (A,B,C)
 
+**Python Libraries:**
+- Pandas
+- Matplotlib
+- Numpy
+- Scipy
+- Jupyter Notebook
+
+
 Our findings from our analysis were 
+
 
 
 Devaraj, V. (n.d.). Walmart Sales Dataset [Data set]. Kaggle. Retrieved December 2024, from https://www.kaggle.com/datasets/devarajv88/walmart-sales-dataset
